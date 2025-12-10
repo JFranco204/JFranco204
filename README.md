@@ -22,7 +22,7 @@ Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por el desa
 Puedes poner tu imagen aquí (reemplaza la URL por tu banner real):
 
 ```
-![Banner](https://ruta-de-tu-banner.com/mi_banner.png)
+![Banner]([https://ruta-de-tu-banner.com/mi_banner.png](https://github.com/JFranco204/JFranco204/blob/main/Black%20Simple%20Record%20Vlog%20Youtube%20Intro.gif))
 ```
 
 ---
