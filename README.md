@@ -1,20 +1,19 @@
 # 👋 Hola, soy Jhan Franco
 
-## 💻 Desarrollador Full Stack en formación
+## 💻 Estudiante de Desarrollo de Software | Full Stack Developer en formación
 
-Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones web escalables e infraestructura. Busco crear aplicaciones que resuelvan problemas reales, combinando desarrollo frontend y backend con prácticas modernas.
+Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestructura. Actualmente estoy fortaleciendo mis bases en frontend, backend y buenas prácticas, mientras construyo proyectos que me ayudan a entender cómo funcionan las aplicaciones en escenarios reales.
 
 ---
 
 ## 🎯 Enfoque
 
-* 🚀 **Objetivo profesional**: Desarrollador Full Stack especializado en infraestructura y DevOps
-* 🔄 **Metodología**: Construcción de proyectos reales con impacto tangible
-* 📈 **Crecimiento**: Aprendizaje continuo en arquitectura de sistemas y tecnologías emergentes
-* 🎓 **Aprendizaje**: Dominio de patrones de diseño, arquitectura limpia y mejores prácticas
-* 💡 **Innovación**: Exploración de nuevas tecnologías y soluciones creativas
-* 🤝 **Colaboración**: Trabajo en equipo y contribución a proyectos
-* ⚡ **Eficiencia**: Optimización de código y rendimiento en aplicaciones
+* 🚀 **Objetivo profesional**: Convertirme en Full Stack Developer con bases sólidas en infraestructura y automatización.
+* 🔄 **Metodología**: Construcción de proyectos reales, experimentación y mejora continua.
+* 📈 **Crecimiento**: Profundizando en arquitectura, patrones de diseño y buenas prácticas de desarrollo.
+* 💡 **Innovación**: Explorando tecnologías modernas y nuevas formas de resolver problemas.
+* 🤝 **Colaboración**: Disfruto trabajar en equipo y aprender de otros desarrolladores.
+* ⚡ **Eficiencia**: Busco escribir código más limpio, optimizado y fácil de mantener conforme avanzo.
 
 ---
 
@@ -83,29 +82,15 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 </table>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFranco204&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFranco204&layout=compact&theme=tokyonight)
-
----
-
-✨ *Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y construyendo cosas nuevas!*
-
-<!-- STACK ICONS START -->
-
----
 ## 🧰 Tech Stack Actual
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Básico
+### 🎨 Frontend Básico  
 **HTML, CSS, JavaScript**
 
-Estructuro y estilizo interfaces web con interactividad fundamental, creando prototipos funcionales que sirven de base para mis proyectos.
+Construyo interfaces web sencillas y funcionales mientras refuerzo mi lógica y buenas prácticas. Estos lenguajes son la base de mis proyectos actuales.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -114,10 +99,10 @@ Estructuro y estilizo interfaces web con interactividad fundamental, creando pro
 </td>
 <td width="50%">
 
-### 🎯 Estilos Modernos
+### 🎯 Estilos Modernos  
 **Tailwind CSS**
 
-Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y profesionales sin escribir CSS personalizado.
+Utilizo utilidades de Tailwind para crear diseños limpios y responsivos, aprendiendo a estructurar interfaces de manera eficiente.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -125,13 +110,14 @@ Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### ⚙️ Automatización
+### ⚙️ Automatización  
 **Python**
 
-Desarrollo scripts de automatización e implementaciones backend para optimizar procesos y tareas repetitivas.
+Creo scripts que me ayudan a automatizar tareas, organizar datos o agilizar procesos. Aún sigo ampliando mis conocimientos paso a paso.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -140,10 +126,10 @@ Desarrollo scripts de automatización e implementaciones backend para optimizar 
 </td>
 <td width="50%">
 
-### 💾 Bases de Datos
+### 💾 Bases de Datos  
 **MySQL**
 
-Diseño y gestiono bases de datos relacionales, implementando consultas optimizadas a nivel empresarial.
+Trabajo con modelos relacionales y consultas básicas/intermedias para estructurar la información de mis proyectos.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -151,13 +137,14 @@ Diseño y gestiono bases de datos relacionales, implementando consultas optimiza
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🖥️ Terminal
+### 🖥️ Terminal  
 **Bash**
 
-Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mejorando mi productividad.
+Utilizo comandos esenciales para navegar, administrar archivos y mejorar mi flujo de trabajo en entornos Linux.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash" />
@@ -166,10 +153,10 @@ Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mej
 </td>
 <td width="50%">
 
-### 📦 Control de Versiones
+### 📦 Control de Versiones  
 **Git & GitHub**
 
-Gestiono el historial de código y colaboro en proyectos usando versionado profesional.
+Manejo control de versiones para organizar mis proyectos y practicar flujos de trabajo colaborativos.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -177,13 +164,14 @@ Gestiono el historial de código y colaboro en proyectos usando versionado profe
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### ⚡ Bundler Moderno
+### ⚡ Bundler Moderno  
 **Vite**
 
-Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes.
+Uso Vite para estructurar proyectos modernos, mejorar el entorno de desarrollo y entender mejor cómo funcionan los bundlers actuales.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite" />
@@ -192,17 +180,18 @@ Optimizo la estructura de proyectos web con herramientas de build rápidas y efi
 </td>
 </tr>
 </table>
+
 ---
 
-🚀 Tecnologías en Proceso de Aprendizaje
+## 🚀 Tecnologías en Proceso de Aprendizaje
 <table>
 <tr>
 <td width="50%">
 
-### ⚛️ Biblioteca de Componentes
+### ⚛️ Biblioteca de Componentes  
 **React**
 
-Construyo interfaces interactivas y reutilizables con componentes modernos, mejorando la mantenibilidad y escalabilidad de aplicaciones web.
+Estoy aprendiendo a trabajar con componentes, estados y props para construir interfaces más dinámicas y reutilizables.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
@@ -211,24 +200,10 @@ Construyo interfaces interactivas y reutilizables con componentes modernos, mejo
 </td>
 <td width="50%">
 
-### 🚀 Framework Progresivo
-**Vite**
-
-Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes para mejor rendimiento.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐧 Sistema Operativo
+### 🐧 Sistema Operativo  
 **Linux**
 
-Domino entornos Unix/Linux para desarrollo profesional y gestión de servidores.
+Me familiarizo con entornos Linux para mejorar mis habilidades de desarrollo y administración básica de sistemas.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" />
@@ -241,15 +216,14 @@ Domino entornos Unix/Linux para desarrollo profesional y gestión de servidores.
 ---
 
 ## 🎯 Tecnologías que Aprenderé Próximamente
-
 <table>
 <tr>
 <td width="50%">
 
-### ☕ Lenguaje Versátil
+### ☕ Lenguaje Versátil  
 **Java**
 
-Dominaré programación orientada a objetos con uno de los lenguajes más robustos de la industria.
+Quiero fortalecer mi lógica y aprender programación orientada a objetos con uno de los lenguajes más usados en la industria.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
@@ -258,10 +232,10 @@ Dominaré programación orientada a objetos con uno de los lenguajes más robust
 </td>
 <td width="50%">
 
-### 🔧 Programación de Sistemas
+### 🔧 Programación de Sistemas  
 **C++**
 
-Aprenderé desarrollo de bajo nivel y optimización de rendimiento crítico.
+Me interesa aprender conceptos de bajo nivel y optimización para mejorar mi comprensión interna del funcionamiento de los programas.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -269,13 +243,14 @@ Aprenderé desarrollo de bajo nivel y optimización de rendimiento crítico.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🎮 Plataforma .NET
+### 🎮 Plataforma .NET  
 **C#**
 
-Exploraré desarrollo en el ecosistema Microsoft para aplicaciones escalables.
+Exploraré este lenguaje para abrirme camino en el ecosistema Microsoft y aplicaciones multiplataforma.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" />
@@ -284,10 +259,10 @@ Exploraré desarrollo en el ecosistema Microsoft para aplicaciones escalables.
 </td>
 <td width="50%">
 
-### 📜 Scripting Avanzado
+### 📜 Scripting Avanzado  
 **Perl**
 
-Estudiaré este lenguaje poderoso para procesamiento de texto y administración de sistemas.
+Lo estudiaré como herramienta para manipulación de texto y automatización más avanzada.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=perl" />
@@ -295,13 +270,14 @@ Estudiaré este lenguaje poderoso para procesamiento de texto y administración 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🚀 Full Stack Moderno
+### 🚀 Full Stack Moderno  
 **Next.js**
 
-Desarrollaré aplicaciones full stack con React y servidor integrado para máxima escalabilidad.
+Quiero aprender a crear aplicaciones full stack con React y backend integrado para comprender mejor arquitecturas modernas.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" />
@@ -310,6 +286,7 @@ Desarrollaré aplicaciones full stack con React y servidor integrado para máxim
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📫 Contáctame
@@ -317,3 +294,5 @@ Desarrollaré aplicaciones full stack con React y servidor integrado para máxim
 * ✉️ Email: *jhanfranco204@gmail.com*
 * 🌐 LinkedIn: *https://www.linkedin.com/in/jhan-franco-364809260/*
 * 📍 Colombia
+
+---
