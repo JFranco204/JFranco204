@@ -96,7 +96,105 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 
 <!-- STACK ICONS START -->
 
+---
 ## 🧰 Tech Stack Actual
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Básico
+**HTML, CSS, JavaScript**
+
+Estructuro y estilizo interfaces web con interactividad fundamental, creando prototipos funcionales que sirven de base para mis proyectos.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🎯 Estilos Modernos
+**Tailwind CSS**
+
+Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y profesionales sin escribir CSS personalizado.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Automatización
+**Python**
+
+Desarrollo scripts de automatización e implementaciones backend para optimizar procesos y tareas repetitivas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+</td>
+<td width="50%">
+
+### 💾 Bases de Datos
+**MySQL**
+
+Diseño y gestiono bases de datos relacionales, implementando consultas optimizadas a nivel empresarial.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Terminal
+**Bash**
+
+Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mejorando mi productividad.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+
+</td>
+<td width="50%">
+
+### 📦 Control de Versiones
+**Git & GitHub**
+
+Gestiono el historial de código y colaboro en proyectos usando versionado profesional.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Bundler Moderno
+**Vite**
+
+Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+</td>
+</tr>
+</table>
+---
+
+🚀 Tecnologías en Proceso de Aprendizaje
 <table>
 <tr>
 <td width="50%">
@@ -212,22 +310,6 @@ Desarrollaré aplicaciones full stack con React y servidor integrado para máxim
 </td>
 </tr>
 </table>
----
-
-## 🚀 Tecnologías en Proceso de Aprendizaje
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,linux" />
-</p>
-
----
-
-## 🎯 Tecnologías que Aprenderé Próximamente
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
-</p>
-
 ---
 
 ## 📫 Contáctame
