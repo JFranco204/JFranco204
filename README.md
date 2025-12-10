@@ -97,49 +97,100 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 <!-- STACK ICONS START -->
 
 ## 🧰 Tech Stack Actual
+<table>
+<tr>
+<td width="50%">
 
-### HTML, CSS y JavaScript
-<p align="left">
+### 🎨 Frontend Básico
+**HTML, CSS, JavaScript**
+
+Estructuro y estilizo interfaces web con interactividad fundamental, creando prototipos funcionales que sirven de base para mis proyectos.
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-Uso HTML, CSS y JavaScript para estructurar, estilizar e implementar interactividad básica en la creación de prototipos o mockups, que forman la base de mis proyectos.
 
-### Python
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-Utilizo Python para la creación y edición de scripts de automatización e implementaciones.
+</td>
+<td width="50%">
 
-### Tailwind CSS
-<p align="left">
+### 🎯 Estilos Modernos
+**Tailwind CSS**
+
+Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y profesionales sin escribir CSS personalizado.
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
-Tailwind CSS me permite un mayor estilizado y simplicidad en el diseño.
 
-### Bash
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Automatización
+**Python**
+
+Desarrollo scripts de automatización e implementaciones backend para optimizar procesos y tareas repetitivas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
-Uso Bash para la navegación entre directorios, copias, eliminación de archivos, y creación y asignación de permisos.
 
-### MySQL
-<p align="left">
+</td>
+<td width="50%">
+
+### 💾 Bases de Datos
+**MySQL**
+
+Diseño y gestiono bases de datos relacionales, implementando consultas optimizadas a nivel empresarial.
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-MySQL es utilizado para el control de bases de datos, creación de tablas y consultas a nivel empresarial.
 
-### Git y GitHub
-<p align="left">
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Terminal
+**Bash**
+
+Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mejorando mi productividad.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+
+</td>
+<td width="50%">
+
+### 📦 Control de Versiones
+**Git & GitHub**
+
+Gestiono el historial de código y colaboro en proyectos usando versionado profesional.
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
-Utilizo Git y GitHub para el control de versiones tanto en proyectos personales como laborales.
 
-### Vite
-<p align="left">
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Bundler Moderno
+**Vite**
+
+Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes.
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vite" />
 </p>
-Vite me ayuda a estructurar mejor los proyectos web de bajo nivel.
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Tecnologías en Proceso de Aprendizaje
