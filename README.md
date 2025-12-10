@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jhan Franco
 
-## 💻 Desarrollador Full Stack en formación | 21 años | Colombiano 🇨🇴
+## 💻 Desarrollador Full Stack en formación | 21 años | Colombiano 
 
 Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por el desarrollo web, la infraestructura y la creación de soluciones completas de principio a fin. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y trabajar con herramientas modernas.
 
@@ -76,13 +76,6 @@ Proyecto en estado beta y privado por ahora.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFranco204\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFranco204\&layout=compact\&theme=tokyonight)
 
----
-
-## 📫 Contáctame
-
-* ✉️ Email: *tu correo aquí*
-* 🌐 LinkedIn: *tu perfil aquí*
-* 📍 Colombia 🇨🇴
 
 ---
 
@@ -112,4 +105,11 @@ Proyecto en estado beta y privado por ahora.
   <img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
 </p>
 
-<!-- STACK ICONS END -->
+---
+
+## 📫 Contáctame
+
+* ✉️ Email: *jhanfranco204@gmail.com*
+* 🌐 LinkedIn: *https://www.linkedin.com/in/jhan-franco-364809260/*
+* 📍 Colombia
+
