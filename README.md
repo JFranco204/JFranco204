@@ -1,29 +1,20 @@
 # 👋 Hola, soy Jhan Franco
 
-## 💻 Desarrollador Full Stack en formación | 21 años | Colombiano 
+## 💻 Desarrollador Full Stack en formación | 21 años | Colombia
 
-Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por el desarrollo web, la infraestructura y la creación de soluciones completas de principio a fin. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y trabajar con herramientas modernas.
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Estudiante de **ADS**.
-* 🧠 Conocimientos actuales: **MySQL, Bash, Python, JavaScript, CSS, HTML, TailwindCSS, Git, GitHub, APIs, Vite, Linux, virtualización, contenedores, servidores**.
-* 📚 Estudiando actualmente: **React**.
-* 🛣 Tecnologías que quiero aprender: **Java, C++, C#, Perl, Next.js**.
-* 🌐 Mi objetivo: ser **Desarrollador Full Stack con énfasis en infraestructura**.
-* 🛠 Busco crear proyectos reales que resuelvan problemas reales.
+Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones web escalables e infraestructura. Busco crear aplicaciones que resuelvan problemas reales, combinando desarrollo frontend y backend con prácticas modernas.
 
 ---
 
-## 🖼️ Banner personalizado
+## 🎯 Enfoque
 
-Puedes poner tu imagen aquí (reemplaza la URL por tu banner real):
-
-```
-![Banner]([https://ruta-de-tu-banner.com/mi_banner.png](https://github.com/JFranco204/JFranco204/blob/main/Black%20Simple%20Record%20Vlog%20Youtube%20Intro.gif))
-```
+* 🚀 **Objetivo profesional**: Desarrollador Full Stack especializado en infraestructura y DevOps
+* 🔄 **Metodología**: Construcción de proyectos reales con impacto tangible
+* 📈 **Crecimiento**: Aprendizaje continuo en arquitectura de sistemas y tecnologías emergentes
+* 🎓 **Aprendizaje**: Dominio de patrones de diseño, arquitectura limpia y mejores prácticas
+* 💡 **Innovación**: Exploración de nuevas tecnologías y soluciones creativas
+* 🤝 **Colaboración**: Trabajo en equipo y contribución a proyectos
+* ⚡ **Eficiencia**: Optimización de código y rendimiento en aplicaciones
 
 ---
 
@@ -57,15 +48,45 @@ Puedes poner tu imagen aquí (reemplaza la URL por tu banner real):
 
 ## 📂 Proyectos destacados
 
-### 🔹 **Módulo Web para Envío Masivo de Mensajes**
+<table>
+<tr>
+<td width="50%">
 
-Formulario avanzado hecho con **HTML + Tailwind + JavaScript**.
-Actualmente en versión privada mientras realizo mejoras.
+### 🔹 **MessageModule**
+**Plataforma de envío masivo de mensajes inteligente**
+
+- **Descripción**: Sistema completo para automatizar campañas de comunicación masiva con múltiples canales de distribución
+- **Características principales**:
+  - 📧 Selección flexible de medios (Email, SMS, WhatsApp)
+  - 👥 Segmentación avanzada de destinatarios
+  - 📎 Carga y gestión de archivos adjuntos
+  - 📊 Historial completo de envíos
+  - ✅ Monitoreo de estados (Pendiente, Enviado, Entregado, Fallido)
+  - ⏱️ Programación de campañas
+- **Stack**: HTML, Tailwind CSS, JavaScript (Vanilla)
+- **Estado**: 🔒 Versión privada - En mejoras continuas
+
+</td>
+<td width="50%">
 
 ### 🔹 **DevJobs**
+**Plataforma especializada en ofertas laborales tech**
 
-Plataforma web para búsqueda de empleos del sector tech.
-Proyecto en estado beta y privado por ahora.
+- **Descripción**: Red de empleo enfocada en el sector tecnológico con filtrado inteligente y perfiles de desarrolladores
+- **Características**:
+  - 🔍 Búsqueda avanzada por tecnologías y ubicación
+  - 💼 Publicación de ofertas laborales
+  - 👤 Perfiles de desarrolladores
+  - 🏢 Perfiles de empresas
+  - 💬 Sistema de comunicación integrado
+- **Stack actual**: HTML, CSS, JavaScript
+- **Stack planeado**: React + Next.js para escalabilidad
+- **Estado**: 🚧 Beta privado - Arquitectura en progreso
+
+</td>
+</tr>
+</table>
+
 
 ---
 
