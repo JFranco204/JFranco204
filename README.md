@@ -98,9 +98,47 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 
 ## 🧰 Tech Stack Actual
 
+### HTML, CSS y JavaScript
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,bash,mysql,git,github,vite,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+Uso HTML, CSS y JavaScript para estructurar, estilizar e implementar interactividad básica en la creación de prototipos o mockups, que forman la base de mis proyectos.
+
+### Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+Utilizo Python para la creación y edición de scripts de automatización e implementaciones.
+
+### Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+Tailwind CSS me permite un mayor estilizado y simplicidad en el diseño.
+
+### Bash
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+Uso Bash para la navegación entre directorios, copias, eliminación de archivos, y creación y asignación de permisos.
+
+### MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+MySQL es utilizado para el control de bases de datos, creación de tablas y consultas a nivel empresarial.
+
+### Git y GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+Utilizo Git y GitHub para el control de versiones tanto en proyectos personales como laborales.
+
+### Vite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+Vite me ayuda a estructurar mejor los proyectos web de bajo nivel.
 
 ---
 
