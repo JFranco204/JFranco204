@@ -20,28 +20,23 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 
 ## 🛠️ Tecnologías y herramientas que uso
 
-### **Backend / Lenguajes**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
+  
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Backend / Lenguajes</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,bash,mysql" alt="Backend stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,js,bash,mysql" />
-</div>
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" alt="Frontend stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-### **Frontend**
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Herramientas y otros</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
-</div>
-
-### **Próximas a aprender**
-
-<div>
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
-</div>
-
-### **Herramientas y otros**
-
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
 </div>
 
 ---
