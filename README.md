@@ -48,44 +48,10 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 
 ## 📂 Proyectos destacados
 
-<table>
-<tr>
-<td width="50%">
+| | |
+|---|---|
+| **🔹 MessageModule** <br/> *Plataforma de envío masivo de mensajes inteligente* <br/><br/> Automatiza campañas de comunicación con múltiples canales. <br/><br/> ✨ **Características**: <br/> • 📧 Email, SMS, WhatsApp <br/> • 👥 Segmentación avanzada <br/> • 📎 Gestión de adjuntos <br/> • 📊 Historial completo <br/> • ✅ Monitoreo de estados <br/> • ⏱️ Programación de campañas <br/><br/> **Tech**: `HTML` `Tailwind` `JavaScript` <br/> **Estado**: 🔒 Privado | **🔹 DevJobs** <br/> *Plataforma especializada en ofertas laborales tech* <br/><br/> Red de empleo del sector tecnológico con filtrado inteligente. <br/><br/> ✨ **Características**: <br/> • 🔍 Búsqueda por tech & ubicación <br/> • 💼 Publicación de ofertas <br/> • 👤 Perfiles de desarrolladores <br/> • 🏢 Perfiles empresariales <br/> • 💬 Chat integrado <br/><br/> **Tech**: `HTML` `CSS` `JavaScript` <br/> **Próximo**: `React` `Next.js` <br/> **Estado**: 🚧 Beta privado |
 
-### 🔹 **MessageModule**
-**Plataforma de envío masivo de mensajes inteligente**
-
-- **Descripción**: Sistema completo para automatizar campañas de comunicación masiva con múltiples canales de distribución
-- **Características principales**:
-  - 📧 Selección flexible de medios (Email, SMS, WhatsApp)
-  - 👥 Segmentación avanzada de destinatarios
-  - 📎 Carga y gestión de archivos adjuntos
-  - 📊 Historial completo de envíos
-  - ✅ Monitoreo de estados (Pendiente, Enviado, Entregado, Fallido)
-  - ⏱️ Programación de campañas
-- **Stack**: HTML, Tailwind CSS, JavaScript (Vanilla)
-- **Estado**: 🔒 Versión privada - En mejoras continuas
-
-</td>
-<td width="50%">
-
-### 🔹 **DevJobs**
-**Plataforma especializada en ofertas laborales tech**
-
-- **Descripción**: Red de empleo enfocada en el sector tecnológico con filtrado inteligente y perfiles de desarrolladores
-- **Características**:
-  - 🔍 Búsqueda avanzada por tecnologías y ubicación
-  - 💼 Publicación de ofertas laborales
-  - 👤 Perfiles de desarrolladores
-  - 🏢 Perfiles de empresas
-  - 💬 Sistema de comunicación integrado
-- **Stack actual**: HTML, CSS, JavaScript
-- **Stack planeado**: React + Next.js para escalabilidad
-- **Estado**: 🚧 Beta privado - Arquitectura en progreso
-
-</td>
-</tr>
-</table>
 
 
 ---
