@@ -1,81 +1,94 @@
 # 👋 Hola, soy Jhan Franco
 
-## 💻 Desarrollador Full Stack en formación | 21 años | Colombiano 
+## 💻 Desarrollador Full Stack en formación
 
-Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por el desarrollo web, la infraestructura y la creación de soluciones completas de principio a fin. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y trabajar con herramientas modernas.
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Estudiante de **ADS**.
-* 🧠 Conocimientos actuales: **MySQL, Bash, Python, JavaScript, CSS, HTML, TailwindCSS, Git, GitHub, APIs, Vite, Linux, virtualización, contenedores, servidores**.
-* 📚 Estudiando actualmente: **React**.
-* 🛣 Tecnologías que quiero aprender: **Java, C++, C#, Perl, Next.js**.
-* 🌐 Mi objetivo: ser **Desarrollador Full Stack con énfasis en infraestructura**.
-* 🛠 Busco crear proyectos reales que resuelvan problemas reales.
+Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones web escalables e infraestructura. Busco crear aplicaciones que resuelvan problemas reales, combinando desarrollo frontend y backend con prácticas modernas.
 
 ---
 
-## 🖼️ Banner personalizado
+## 🎯 Enfoque
 
-Puedes poner tu imagen aquí (reemplaza la URL por tu banner real):
-
-```
-![Banner]([https://ruta-de-tu-banner.com/mi_banner.png](https://github.com/JFranco204/JFranco204/blob/main/Black%20Simple%20Record%20Vlog%20Youtube%20Intro.gif))
-```
+* 🚀 **Objetivo profesional**: Desarrollador Full Stack especializado en infraestructura y DevOps
+* 🔄 **Metodología**: Construcción de proyectos reales con impacto tangible
+* 📈 **Crecimiento**: Aprendizaje continuo en arquitectura de sistemas y tecnologías emergentes
+* 🎓 **Aprendizaje**: Dominio de patrones de diseño, arquitectura limpia y mejores prácticas
+* 💡 **Innovación**: Exploración de nuevas tecnologías y soluciones creativas
+* 🤝 **Colaboración**: Trabajo en equipo y contribución a proyectos
+* ⚡ **Eficiencia**: Optimización de código y rendimiento en aplicaciones
 
 ---
 
 ## 🛠️ Tecnologías y herramientas que uso
 
-### **Backend / Lenguajes**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
+  
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Backend / Lenguajes</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,bash,mysql" alt="Backend stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,js,bash,mysql" />
-</div>
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" alt="Frontend stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-### **Frontend**
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Herramientas y otros</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools stack" style="max-width: 100%; height: auto;" />
+  </div>
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
-</div>
-
-### **Próximas a aprender**
-
-<div>
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
-</div>
-
-### **Herramientas y otros**
-
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
 </div>
 
 ---
 
 ## 📂 Proyectos destacados
 
-### 🔹 **Módulo Web para Envío Masivo de Mensajes**
+<table>
+<tr>
+<td width="50%">
 
-Formulario avanzado hecho con **HTML + Tailwind + JavaScript**.
-Actualmente en versión privada mientras realizo mejoras.
+### 🔹 **MessageModule**
+**Plataforma de envío masivo de mensajes inteligente**
+
+- **Descripción**: Sistema completo para automatizar campañas de comunicación masiva con múltiples canales de distribución
+- **Características principales**:
+  - 📧 Selección flexible de medios (Email, SMS, WhatsApp)
+  - 👥 Segmentación avanzada de destinatarios
+  - 📎 Carga y gestión de archivos adjuntos
+  - 📊 Historial completo de envíos
+  - ✅ Monitoreo de estados (Pendiente, Enviado, Entregado, Fallido)
+  - ⏱️ Programación de campañas
+- **Stack**: HTML, Tailwind CSS, JavaScript (Vanilla)
+- **Estado**: 🔒 Versión privada - En mejoras continuas
+
+</td>
+<td width="50%">
 
 ### 🔹 **DevJobs**
+**Plataforma especializada en ofertas laborales tech**
 
-Plataforma web para búsqueda de empleos del sector tech.
-Proyecto en estado beta y privado por ahora.
+- **Descripción**: Red de empleo enfocada en el sector tecnológico con filtrado inteligente y perfiles de desarrolladores
+- **Características**:
+  - 🔍 Búsqueda avanzada por tecnologías y ubicación
+  - 💼 Publicación de ofertas laborales
+  - 👤 Perfiles de desarrolladores
+  - 🏢 Perfiles de empresas
+  - 💬 Sistema de comunicación integrado
+- **Stack actual**: HTML, CSS, JavaScript
+- **Stack planeado**: React + Next.js para escalabilidad
+- **Estado**: 🚧 Beta privado - Arquitectura en progreso
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-> Reemplaza `TU_USUARIO` por tu nombre real de GitHub: `JFranco204`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFranco204&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFranco204\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFranco204\&layout=compact\&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFranco204&layout=compact&theme=tokyonight)
 
 ---
 
@@ -83,28 +96,220 @@ Proyecto en estado beta y privado por ahora.
 
 <!-- STACK ICONS START -->
 
+---
 ## 🧰 Tech Stack Actual
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,bash,mysql,git,github,vite,react" />
+### 🎨 Frontend Básico
+**HTML, CSS, JavaScript**
+
+Estructuro y estilizo interfaces web con interactividad fundamental, creando prototipos funcionales que sirven de base para mis proyectos.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+</td>
+<td width="50%">
+
+### 🎯 Estilos Modernos
+**Tailwind CSS**
+
+Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y profesionales sin escribir CSS personalizado.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Automatización
+**Python**
+
+Desarrollo scripts de automatización e implementaciones backend para optimizar procesos y tareas repetitivas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+</td>
+<td width="50%">
+
+### 💾 Bases de Datos
+**MySQL**
+
+Diseño y gestiono bases de datos relacionales, implementando consultas optimizadas a nivel empresarial.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Terminal
+**Bash**
+
+Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mejorando mi productividad.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+
+</td>
+<td width="50%">
+
+### 📦 Control de Versiones
+**Git & GitHub**
+
+Gestiono el historial de código y colaboro en proyectos usando versionado profesional.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Bundler Moderno
+**Vite**
+
+Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
-## 🚀 Tecnologías en Proceso de Aprendizaje
+🚀 Tecnologías en Proceso de Aprendizaje
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,linux" />
+### ⚛️ Biblioteca de Componentes
+**React**
+
+Construyo interfaces interactivas y reutilizables con componentes modernos, mejorando la mantenibilidad y escalabilidad de aplicaciones web.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
+
+</td>
+<td width="50%">
+
+### 🚀 Framework Progresivo
+**Vite**
+
+Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes para mejor rendimiento.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐧 Sistema Operativo
+**Linux**
+
+Domino entornos Unix/Linux para desarrollo profesional y gestión de servidores.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Tecnologías que Aprenderé Próximamente
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
+<table>
+<tr>
+<td width="50%">
+
+### ☕ Lenguaje Versátil
+**Java**
+
+Dominaré programación orientada a objetos con uno de los lenguajes más robustos de la industria.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
+</td>
+<td width="50%">
+
+### 🔧 Programación de Sistemas
+**C++**
+
+Aprenderé desarrollo de bajo nivel y optimización de rendimiento crítico.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Plataforma .NET
+**C#**
+
+Exploraré desarrollo en el ecosistema Microsoft para aplicaciones escalables.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+</td>
+<td width="50%">
+
+### 📜 Scripting Avanzado
+**Perl**
+
+Estudiaré este lenguaje poderoso para procesamiento de texto y administración de sistemas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=perl" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Full Stack Moderno
+**Next.js**
+
+Desarrollaré aplicaciones full stack con React y servidor integrado para máxima escalabilidad.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📫 Contáctame
@@ -112,4 +317,3 @@ Proyecto en estado beta y privado por ahora.
 * ✉️ Email: *jhanfranco204@gmail.com*
 * 🌐 LinkedIn: *https://www.linkedin.com/in/jhan-franco-364809260/*
 * 📍 Colombia
-
