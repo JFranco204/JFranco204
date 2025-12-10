@@ -101,91 +101,112 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en soluciones w
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Básico
-**HTML, CSS, JavaScript**
+### ⚛️ Biblioteca de Componentes
+**React**
 
-Estructuro y estilizo interfaces web con interactividad fundamental, creando prototipos funcionales que sirven de base para mis proyectos.
+Construyo interfaces interactivas y reutilizables con componentes modernos, mejorando la mantenibilidad y escalabilidad de aplicaciones web.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 </td>
 <td width="50%">
 
-### 🎯 Estilos Modernos
-**Tailwind CSS**
-
-Acelero el diseño responsive con utilidades CSS, logrando interfaces limpias y profesionales sin escribir CSS personalizado.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Automatización
-**Python**
-
-Desarrollo scripts de automatización e implementaciones backend para optimizar procesos y tareas repetitivas.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-</td>
-<td width="50%">
-
-### 💾 Bases de Datos
-**MySQL**
-
-Diseño y gestiono bases de datos relacionales, implementando consultas optimizadas a nivel empresarial.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖥️ Terminal
-**Bash**
-
-Navego el sistema, gestiono archivos y permisos mediante comandos de línea, mejorando mi productividad.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</p>
-
-</td>
-<td width="50%">
-
-### 📦 Control de Versiones
-**Git & GitHub**
-
-Gestiono el historial de código y colaboro en proyectos usando versionado profesional.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ Bundler Moderno
+### 🚀 Framework Progresivo
 **Vite**
 
-Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes.
+Optimizo la estructura de proyectos web con herramientas de build rápidas y eficientes para mejor rendimiento.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐧 Sistema Operativo
+**Linux**
+
+Domino entornos Unix/Linux para desarrollo profesional y gestión de servidores.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Tecnologías que Aprenderé Próximamente
+
+<table>
+<tr>
+<td width="50%">
+
+### ☕ Lenguaje Versátil
+**Java**
+
+Dominaré programación orientada a objetos con uno de los lenguajes más robustos de la industria.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🔧 Programación de Sistemas
+**C++**
+
+Aprenderé desarrollo de bajo nivel y optimización de rendimiento crítico.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Plataforma .NET
+**C#**
+
+Exploraré desarrollo en el ecosistema Microsoft para aplicaciones escalables.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+</td>
+<td width="50%">
+
+### 📜 Scripting Avanzado
+**Perl**
+
+Estudiaré este lenguaje poderoso para procesamiento de texto y administración de sistemas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=perl" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Full Stack Moderno
+**Next.js**
+
+Desarrollaré aplicaciones full stack con React y servidor integrado para máxima escalabilidad.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 </td>
