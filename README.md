@@ -1,16 +1,115 @@
-## Hi there 👋
+# 👋 Hola, soy Jhan Franco
 
-<!--
-**JFranco204/JFranco204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Full Stack en formación | 21 años | Colombiano 🇨🇴
 
-Here are some ideas to get you started:
+Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por el desarrollo web, la infraestructura y la creación de soluciones completas de principio a fin. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y trabajar con herramientas modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+* 🎓 Estudiante de **ADS**.
+* 🧠 Conocimientos actuales: **MySQL, Bash, Python, JavaScript, CSS, HTML, TailwindCSS, Git, GitHub, APIs, Vite, Linux, virtualización, contenedores, servidores**.
+* 📚 Estudiando actualmente: **React**.
+* 🛣 Tecnologías que quiero aprender: **Java, C++, C#, Perl, Next.js**.
+* 🌐 Mi objetivo: ser **Desarrollador Full Stack con énfasis en infraestructura**.
+* 🛠 Busco crear proyectos reales que resuelvan problemas reales.
+
+---
+
+## 🖼️ Banner personalizado
+
+Puedes poner tu imagen aquí (reemplaza la URL por tu banner real):
+
+```
+![Banner](https://ruta-de-tu-banner.com/mi_banner.png)
+```
+
+---
+
+## 🛠️ Tecnologías y herramientas que uso
+
+### **Backend / Lenguajes**
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,js,bash,mysql" />
+</div>
+
+### **Frontend**
+
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+</div>
+
+### **Próximas a aprender**
+
+<div>
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
+</div>
+
+### **Herramientas y otros**
+
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+</div>
+
+---
+
+## 📂 Proyectos destacados
+
+### 🔹 **Módulo Web para Envío Masivo de Mensajes**
+
+Formulario avanzado hecho con **HTML + Tailwind + JavaScript**.
+Actualmente en versión privada mientras realizo mejoras.
+
+### 🔹 **DevJobs**
+
+Plataforma web para búsqueda de empleos del sector tech.
+Proyecto en estado beta y privado por ahora.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+> Reemplaza `TU_USUARIO` por tu nombre real de GitHub: `JFranco204`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFranco204\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFranco204\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contáctame
+
+* ✉️ Email: *tu correo aquí*
+* 🌐 LinkedIn: *tu perfil aquí*
+* 📍 Colombia 🇨🇴
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y construyendo cosas nuevas!*
+
+<!-- STACK ICONS START -->
+
+## 🧰 Tech Stack Actual
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,bash,mysql,git,github,vite,react" />
+</p>
+
+---
+
+## 🚀 Tecnologías en Proceso de Aprendizaje
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,linux" />
+</p>
+
+---
+
+## 🎯 Tecnologías que Aprenderé Próximamente
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,perl,nextjs" />
+</p>
+
+<!-- STACK ICONS END -->
