@@ -24,7 +24,7 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
   <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
   <h3>Backend / Lenguajes</h3>
   <img src="https://skillicons.dev/icons?i=python,js,bash,mysql" alt="Backend stack" style="max-width: 100%; height: auto;" />
-  <img src="/xml.svg" style="ax-width: 100%; height: auto;"/>
+  <img src="/xml.svg" style="max-width: 100%; height: auto;"/>
   </div>
 
   <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
