@@ -259,21 +259,6 @@ Exploraré este lenguaje para abrirme camino en el ecosistema Microsoft y aplica
 </td>
 <td width="50%">
 
-### 📜 Scripting Avanzado  
-**Perl**
-
-Lo estudiaré como herramienta para manipulación de texto y automatización más avanzada.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=perl" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 🚀 Full Stack Moderno  
 **Next.js**
 
