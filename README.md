@@ -79,7 +79,37 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+
+### 🔹 **Automation_Scripts**
+**Repositorio open source de scripts de automatización**
+
+- **Descripción**: Colección de scripts reutilizables desarrollados para automatizar tareas repetitivas, administrativas y técnicas en entornos reales de trabajo.
+- **Enfoque**:
+  - ⚙️ Automatización de procesos comunes
+  - 🔐 Manejo seguro de configuraciones
+  - ♻️ Scripts reutilizables y adaptables
+  - 📚 Repositorio como material de aprendizaje y portafolio técnico
+- **Lenguajes**:
+  - 🐚 Bash
+  - 🐍 Python
+  - 🗄️ SQL
+- **Estructura organizada**:
+  - `bash/` → scripts de automatización en sistemas
+  - `python/` → scripts utilitarios y de procesamiento
+  - `sql/` → consultas y automatizaciones de base de datos
+  - `config/` → configuraciones de ejemplo desacopladas
+  - `docs/` → documentación técnica
+- **Licencia**: MIT
+- **Estado**: 🚀 Activo – en crecimiento continuo
+- **Repositorio**: 🌐 Open Source
+
+</td>
+</tr>
 </table>
+
 
 ---
 ## 🧰 Tech Stack Actual
