@@ -112,9 +112,7 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 - **Repositorio**: 🌐 Open Source
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🔹 **AssetTrack**
