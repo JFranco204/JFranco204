@@ -1,6 +1,6 @@
-# 👋 Hola, soy Jhan Franco
+# Hola, soy Jhan Franco
 
-## 💻 Estudiante de Desarrollo de Software | Full Stack Developer en formación
+## Estudiante de Desarrollo de Software | Full Stack Developer en formación
 
 Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestructura. Actualmente estoy fortaleciendo mis bases en frontend, backend y buenas prácticas, mientras construyo proyectos que me ayudan a entender cómo funcionan las aplicaciones en escenarios reales.
 
@@ -8,12 +8,12 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 
 ## 🎯 Enfoque
 
-* 🚀 **Objetivo profesional**: Convertirme en Full Stack Developer con bases sólidas en infraestructura y automatización.
-* 🔄 **Metodología**: Construcción de proyectos reales, experimentación y mejora continua.
-* 📈 **Crecimiento**: Profundizando en arquitectura, patrones de diseño y buenas prácticas de desarrollo.
-* 💡 **Innovación**: Explorando tecnologías modernas y nuevas formas de resolver problemas.
-* 🤝 **Colaboración**: Disfruto trabajar en equipo y aprender de otros desarrolladores.
-* ⚡ **Eficiencia**: Busco escribir código más limpio, optimizado y fácil de mantener conforme avanzo.
+* **Objetivo profesional**: Convertirme en Full Stack Developer con bases sólidas en infraestructura y automatización.
+* **Metodología**: Construcción de proyectos reales, experimentación y mejora continua.
+* **Crecimiento**: Profundizando en arquitectura, patrones de diseño y buenas prácticas de desarrollo.
+* **Innovación**: Explorando tecnologías modernas y nuevas formas de resolver problemas.
+* **Colaboración**: Disfruto trabajar en equipo y aprender de otros desarrolladores.
+* **Eficiencia**: Busco escribir código más limpio, optimizado y fácil de mantener conforme avanzo.
 
 ---
 
@@ -32,8 +32,13 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
   </div> 
 
   <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
-  <h3>Herramientas y otros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools stack" style="max-width: 100%; height: auto;" />
+  <h3>Sistemas & Control de versiones</h3>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" alt="Tools stack" style="max-width: 100%; height: auto;" />
+  </div>
+
+  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
+  <h3>Cloud (Fundamentos)</h3>
+  <img src="https://skillicons.dev/icons?i=gcp,azure" alt="Tools stack" style="max-width: 100%; height: auto;" />
   </div>
 
 </div>
@@ -81,7 +86,7 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 </tr>
 
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🔹 **Automation_Scripts**
 **Repositorio open source de scripts de automatización**
@@ -108,6 +113,41 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 **AssetTrack**
+**Sistema de gestión de activos fijos empresariales**
+
+- **Descripción**:  
+  Plataforma web para la **gestión, control y trazabilidad de activos fijos de TI**, diseñada como una alternativa estructurada y auditable al manejo manual de inventarios en Excel.
+
+- **Características principales**:
+  - 📊 **Dashboard operativo** con resumen general del estado de los activos, movimientos recientes y actividad de cargas masivas.
+  - 📋 **Inventario centralizado** en vista de tabla optimizada para escritorio, con columnas alineadas a Excel, búsqueda con autocompletado y filtros rápidos por estado.
+  - 📥 **Carga masiva de activos desde Excel**, con validación previa para detectar duplicados, errores de formato y datos inconsistentes antes de procesar la información.
+  - 🧾 **Registro de activos por factura**, permitiendo extraer múltiples activos desde un mismo archivo, con soporte de adjuntos para control documental.
+  - ✍️ **Formulario de registro y movimiento de activos**, optimizado para minimizar la escritura mediante autocompletado y listas desplegables.
+  - 🕒 **Historial completo del ciclo de vida del activo**, incluyendo creación, traslados y adjuntos históricos para auditoría.
+
+- **Enfoque**:
+  - Optimización de procesos administrativos
+  - Reducción de errores humanos
+  - Trazabilidad y control de activos
+  - Automatización de flujos basados en datos
+
+- **Stack actual**:
+  - HTML
+  - CSS / Tailwind CSS
+  - Backend y base de datos en definición
+
+- **Estado**:  
+  🔒 Proyecto privado – en desarrollo activo
+
+</td>
+</tr>
+
 </table>
 
 
@@ -117,79 +157,25 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Básico  
-**HTML, CSS, JavaScript**
+### 🗄️ Bases de Datos & SQL  
+**MySQL (fortaleza principal)**
 
-Construyo interfaces web sencillas y funcionales mientras refuerzo mi lógica y buenas prácticas. Estos lenguajes son la base de mis proyectos actuales.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-</td>
-<td width="50%">
-
-### 🎯 Estilos Modernos  
-**Tailwind CSS**
-
-Utilizo utilidades de Tailwind para crear diseños limpios y responsivos, aprendiendo a estructurar interfaces de manera eficiente.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Automatización  
-**Python**
-
-Creo scripts que me ayudan a automatizar tareas, organizar datos o agilizar procesos. Aún sigo ampliando mis conocimientos paso a paso.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-</td>
-<td width="50%">
-
-### 💾 Bases de Datos  
-**MySQL**
-
-Trabajo con modelos relacionales y consultas básicas/intermedias para estructurar la información de mis proyectos.
+Trabajo con bases de datos relacionales, diseño de modelos y consultas SQL complejas, aplicando SQL como eje central para lógica de negocio, automatización y análisis de información.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🖥️ Terminal  
-**Bash**
+### ⚙️ Automatización & Backend  
+**Python & Bash**
 
-Utilizo comandos esenciales para navegar, administrar archivos y mejorar mi flujo de trabajo en entornos Linux.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</p>
-
-</td>
-<td width="50%">
-
-### 📦 Control de Versiones  
-**Git & GitHub**
-
-Manejo control de versiones para organizar mis proyectos y practicar flujos de trabajo colaborativos.
+Desarrollo scripts para automatizar procesos técnicos y administrativos, integrando lógica, validaciones, hashing y consumo de servicios externos mediante APIs.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
 </td>
@@ -198,10 +184,64 @@ Manejo control de versiones para organizar mis proyectos y practicar flujos de t
 <tr>
 <td width="50%">
 
-### ⚡ Bundler Moderno  
+### 🔌 APIs & Testing  
+**REST · JSON · Postman**
+
+Consumo e integración de APIs REST utilizando métodos HTTP (GET, POST, etc.), manejo de JSON y validación de endpoints con herramientas de testing.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend (Complementario)  
+**HTML, CSS, JavaScript, Tailwind**
+
+Construcción de interfaces web estructuradas y funcionales, utilizadas principalmente como soporte visual para soluciones backend y automatizadas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud  
+**Google Cloud Platform · Azure (básico)**
+
+Uso de servicios cloud para despliegue y conexión de aplicaciones, incluyendo máquinas virtuales, bases de datos gestionadas y manejo de redes e IPs.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,azure" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🖥️ Sistemas & Control de Versiones  
+**Linux · Git · GitHub**
+
+Trabajo en entornos Linux, manejo de terminal y control de versiones para desarrollo colaborativo y administración básica de sistemas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Entorno de Desarrollo  
 **Vite**
 
-Uso Vite para estructurar proyectos modernos, mejorar el entorno de desarrollo y entender mejor cómo funcionan los bundlers actuales.
+Uso de Vite como entorno de desarrollo moderno para estructurar proyectos web y mejorar el flujo de trabajo.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite" />
@@ -210,6 +250,7 @@ Uso Vite para estructurar proyectos modernos, mejorar el entorno de desarrollo y
 </td>
 </tr>
 </table>
+
 
 ---
 
