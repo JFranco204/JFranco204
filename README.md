@@ -23,7 +23,7 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
   
   <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
   <h3>Backend / Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,bash,mysql" alt="Backend stack" style="max-width: 100%; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi" alt="Backend stack" style="max-width: 100%; height: auto;" />
   </div>
 
   <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
@@ -316,13 +316,13 @@ Me interesa aprender conceptos de bajo nivel y optimización para mejorar mi com
 <tr>
 <td width="50%">
 
-### 🎮 Plataforma .NET  
-**C#**
+### 🎮 Lenguaje de Sistemas  
+**C**
 
-Exploraré este lenguaje para abrirme camino en el ecosistema Microsoft y aplicaciones multiplataforma.
+Exploraré este lenguaje para profundizar en conceptos de bajo nivel, memoria y programación de sistemas operativos.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 </td>
