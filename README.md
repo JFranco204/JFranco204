@@ -112,7 +112,7 @@ Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendi
 
 **Stack actual**: HTML · CSS  
 **Stack planeado**: React · Next.js · TypeScript  
-**Estado**: 🚧 En pausa — arquitectura en progreso
+**Estado**: 🔒 Privado — En pausa — arquitectura en progreso
 
 </td>
 <td width="50%">
@@ -153,7 +153,7 @@ Bot automatizado de trading desarrollado en Python. Ejecuta lógica de mercado d
 - Consumo de APIs de datos financieros
 
 **Stack**: Python · APIs financieras · HTML  
-**Estado**: ✅ Funcional
+**Estado**: 🔒 Privado — ✅ Funcional
 
 </td>
 <td width="50%">
@@ -169,7 +169,7 @@ Plataforma web de trading con dinero ficticio pensada para practicar sin fricci�
 - Pensado como producto monetizable
 
 **Stack**: Web · APIs de mercado · Charts  
-**Estado**: 🚧 En progreso
+**Estado**: 🔒 Privado — 🚧 En progreso
 
 </td>
 </tr>
@@ -348,7 +348,6 @@ Memoria, punteros y programación de sistemas operativos.
 ## 📫 Contáctame
 
 * ✉️ **Email**: jhanfranco204@gmail.com
-* 🌐 **LinkedIn**: [jhan-franco-364809260](https://www.linkedin.com/in/jhan-franco-364809260/)
 * 🌍 **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
 * 📍 **Colombia**
 
