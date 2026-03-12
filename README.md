@@ -1,45 +1,57 @@
 # Hola, soy Jhan Franco
 
-## Estudiante de Desarrollo de Software | Full Stack Developer en formación
+## Desarrollador de Software | Automatización · Backend · Full Stack en formación
 
-Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestructura. Actualmente estoy fortaleciendo mis bases en frontend, backend y buenas prácticas, mientras construyo proyectos que me ayudan a entender cómo funcionan las aplicaciones en escenarios reales.
+Desarrollador con experiencia práctica real en entornos empresariales. Me especializo en automatización de procesos, SQL avanzado y scripting, mientras construyo el ciclo completo de proyectos propios: frontend → backend → base de datos → despliegue.
 
 ---
 
 ## 🎯 Enfoque
 
-* **Objetivo profesional**: Convertirme en Full Stack Developer con bases sólidas en infraestructura y automatización.
-* **Metodología**: Construcción de proyectos reales, experimentación y mejora continua.
-* **Crecimiento**: Profundizando en arquitectura, patrones de diseño y buenas prácticas de desarrollo.
-* **Innovación**: Explorando tecnologías modernas y nuevas formas de resolver problemas.
-* **Colaboración**: Disfruto trabajar en equipo y aprender de otros desarrolladores.
-* **Eficiencia**: Busco escribir código más limpio, optimizado y fácil de mantener conforme avanzo.
+* **Objetivo profesional**: Desarrollador backend / automatización con visión full stack e infraestructura.
+* **Metodología**: Proyectos reales, sin atajos. Construyo para entender, no solo para que funcione.
+* **Crecimiento**: Profundizando en arquitectura, patrones de diseño y despliegue en producción.
+* **Eficiencia**: Herramientas que resuelven problemas reales, no demos de laboratorio.
+* **Infraestructura**: Aprendiendo virtualización y administración de servidores con Proxmox VE.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas que uso
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
-  
-  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
-  <h3>Backend / Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi" alt="Backend stack" style="max-width: 100%; height: auto;" />
-  </div>
+<div align="center">
 
-  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" alt="Frontend stack" style="max-width: 100%; height: auto;" />
-  </div> 
+<table>
+<tr>
+<td align="center" width="25%">
 
-  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
-  <h3>Sistemas & Control de versiones</h3>
-  <img src="https://skillicons.dev/icons?i=linux,git,github" alt="Tools stack" style="max-width: 100%; height: auto;" />
-  </div>
+**Backend / Lenguajes**
 
-  <div style="text-align: center; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px;">
-  <h3>Cloud (Fundamentos)</h3>
-  <img src="https://skillicons.dev/icons?i=gcp,azure" alt="Tools stack" style="max-width: 100%; height: auto;" />
-  </div>
+<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi" />
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+
+</td>
+<td align="center" width="25%">
+
+**Sistemas & Versiones**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+
+</td>
+<td align="center" width="25%">
+
+**Cloud (Fundamentos)**
+
+<img src="https://skillicons.dev/icons?i=gcp,azure" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -51,114 +63,130 @@ Soy un desarrollador en crecimiento, apasionado por el mundo web y la infraestru
 <tr>
 <td width="50%">
 
-### 🔹 **MessageModule**
-**Plataforma de envío masivo de mensajes inteligente**
+### 🔹 **Kallon**
+**Sistema de gestión de activos fijos empresariales**
 
-- **Descripción**: Sistema completo para automatizar campañas de comunicación masiva con múltiples canales de distribución
-- **Características principales**:
-  - 📧 Selección flexible de medios (Email, SMS, WhatsApp)
-  - 👥 Segmentación avanzada de destinatarios
-  - 📎 Carga y gestión de archivos adjuntos
-  - 📊 Historial completo de envíos
-  - ✅ Monitoreo de estados (Pendiente, Enviado, Entregado, Fallido)
-  - ⏱️ Programación de campañas
-- **Stack**: HTML, Tailwind CSS, JavaScript (Vanilla)
-- **Estado**: 🔒 Versión privada - En mejoras continuas
+Plataforma web para **gestión, control y trazabilidad de activos fijos de TI**. Alternativa estructurada y auditable al manejo manual en Excel.
+
+- Dashboard operativo con resumen de activos y movimientos recientes
+- Inventario centralizado con búsqueda, autocompletado y filtros por estado
+- Carga masiva desde Excel con validación previa de duplicados e inconsistencias
+- Registro por factura con soporte de adjuntos para control documental
+- Historial completo del ciclo de vida del activo para auditoría
+
+**Stack**: HTML · CSS / Tailwind CSS · JavaScript · Python · MySQL  
+**Estado**: 🔒 Privado — en desarrollo activo
 
 </td>
 <td width="50%">
 
-### 🔹 **DevJobs**
-**Plataforma especializada en ofertas laborales tech**
+### 🔹 **MessageModule**
+**Plataforma de envío masivo multicanal**
 
-- **Descripción**: Red de empleo enfocada en el sector tecnológico con filtrado inteligente y perfiles de desarrolladores
-- **Características**:
-  - 🔍 Búsqueda avanzada por tecnologías y ubicación
-  - 💼 Publicación de ofertas laborales
-  - 👤 Perfiles de desarrolladores
-  - 🏢 Perfiles de empresas
-  - 💬 Sistema de comunicación integrado
-- **Stack actual**: HTML, CSS, JavaScript
-- **Stack planeado**: React + Next.js para escalabilidad
-- **Estado**: 🚧 Beta privado - Arquitectura en progreso
+Sistema para automatizar campañas de comunicación masiva con múltiples canales de distribución.
+
+- Selección de canal: Email, SMS, WhatsApp
+- Segmentación avanzada de destinatarios
+- Carga y gestión de archivos adjuntos
+- Historial completo de envíos
+- Monitoreo de estados: Pendiente, Enviado, Entregado, Fallido
+- Programación de campañas
+
+**Stack**: HTML · Tailwind CSS · TypeScript · Vite  
+**Estado**: 🔒 Privado — en mejoras continuas
 
 </td>
 </tr>
 
 <tr>
+<td width="50%">
+
+### 🔹 **DevJobs**
+**Plataforma de empleo tech**
+
+Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendizaje donde construyo todo desde cero, sin IA.
+
+- Búsqueda por tecnologías y ubicación
+- Publicación de ofertas laborales
+- Perfiles de desarrolladores y empresas
+
+**Stack actual**: HTML · CSS  
+**Stack planeado**: React · Next.js · TypeScript  
+**Estado**: 🚧 En pausa — arquitectura en progreso
+
+</td>
 <td width="50%">
 
 ### 🔹 **Automation_Scripts**
 **Repositorio open source de scripts de automatización**
 
-- **Descripción**: Colección de scripts reutilizables desarrollados para automatizar tareas repetitivas, administrativas y técnicas en entornos reales de trabajo.
-- **Enfoque**:
-  - ⚙️ Automatización de procesos comunes
-  - 🔐 Manejo seguro de configuraciones
-  - ♻️ Scripts reutilizables y adaptables
-  - 📚 Repositorio como material de aprendizaje y portafolio técnico
-- **Lenguajes**:
-  - 🐚 Bash
-  - 🐍 Python
-  - 🗄️ SQL
-- **Estructura organizada**:
-  - `bash/` → scripts de automatización en sistemas
-  - `python/` → scripts utilitarios y de procesamiento
-  - `sql/` → consultas y automatizaciones de base de datos
-  - `config/` → configuraciones de ejemplo desacopladas
-  - `docs/` → documentación técnica
-- **Licencia**: MIT
-- **Estado**: 🚀 Activo – en crecimiento continuo
-- **Repositorio**: 🌐 Open Source
+Colección de scripts reutilizables desarrollados para automatizar tareas en entornos reales de trabajo.
 
-</td>
+- Scripts de automatización de procesos operativos
+- Configuraciones desacopladas y seguras
+- Material de aprendizaje y portafolio técnico
 
-<td width="50%">
+**Estructura**:
+- `bash/` → automatización en sistemas
+- `python/` → scripts utilitarios y procesamiento
+- `sql/` → consultas y automatizaciones de BD
+- `config/` → configuraciones de ejemplo
+- `docs/` → documentación técnica
 
-### 🔹 **Kallon**
-**Sistema de gestión de activos fijos empresariales**
-
-- **Descripción**:  
-  Plataforma web para la **gestión, control y trazabilidad de activos fijos de TI**, diseñada como una alternativa estructurada y auditable al manejo manual de inventarios en Excel.
-
-- **Características principales**:
-  - 📊 **Dashboard operativo** con resumen general del estado de los activos, movimientos recientes y actividad de cargas masivas.
-  - 📋 **Inventario centralizado** en vista de tabla optimizada para escritorio, con columnas alineadas a Excel, búsqueda con autocompletado y filtros rápidos por estado.
-  - 📥 **Carga masiva de activos desde Excel**, con validación previa para detectar duplicados, errores de formato y datos inconsistentes antes de procesar la información.
-  - 🧾 **Registro de activos por factura**, permitiendo extraer múltiples activos desde un mismo archivo, con soporte de adjuntos para control documental.
-  - ✍️ **Formulario de registro y movimiento de activos**, optimizado para minimizar la escritura mediante autocompletado y listas desplegables.
-  - 🕒 **Historial completo del ciclo de vida del activo**, incluyendo creación, traslados y adjuntos históricos para auditoría.
-
-- **Enfoque**:
-  - Optimización de procesos administrativos
-  - Reducción de errores humanos
-  - Trazabilidad y control de activos
-  - Automatización de flujos basados en datos
-
-- **Stack actual**:
-  - HTML
-  - CSS / Tailwind CSS
-  - Backend y base de datos en definición
-
-- **Estado**:  
-  🔒 Proyecto privado – en desarrollo activo
+**Lenguajes**: Bash · Python · SQL  
+**Licencia**: MIT  
+**Estado**: 🚀 Open Source — en crecimiento continuo
 
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+
+### 🔹 **TradingBot**
+**Bot de trading algorítmico**
+
+Bot automatizado de trading desarrollado en Python. Ejecuta lógica de mercado de forma autónoma y genera reportes visuales en HTML con los resultados de operaciones.
+
+- Lógica de trading automatizada
+- Generación de reportes en HTML
+- Consumo de APIs de datos financieros
+
+**Stack**: Python · APIs financieras · HTML  
+**Estado**: ✅ Funcional
+
+</td>
+<td width="50%">
+
+### 🔹 **SimuTrade**
+**Broker simulado de aprendizaje**
+
+Plataforma web de trading con dinero ficticio pensada para practicar sin fricción. Sin registro, sin cuenta — entras y operas directamente.
+
+- Datos de mercado en tiempo real
+- Múltiples tipos de velas y análisis técnico
+- Sin autenticación requerida
+- Pensado como producto monetizable
+
+**Stack**: Web · APIs de mercado · Charts  
+**Estado**: 🚧 En progreso
+
+</td>
+</tr>
 </table>
 
-
 ---
+
 ## 🧰 Tech Stack Actual
+
 <table>
 <tr>
 <td width="50%">
 
-### 🗄️ Bases de Datos & SQL  
+### 🗄️ Bases de Datos & SQL
 **MySQL (fortaleza principal)**
 
-Trabajo con bases de datos relacionales, diseño de modelos y consultas SQL complejas, aplicando SQL como eje central para lógica de negocio, automatización y análisis de información.
+Consultas SQL complejas, diseño de modelos relacionales y lógica de negocio en base de datos. Experiencia real construyendo KPIs e indicadores operativos en entorno empresarial.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -167,10 +195,10 @@ Trabajo con bases de datos relacionales, diseño de modelos y consultas SQL comp
 </td>
 <td width="50%">
 
-### ⚙️ Automatización & Backend  
-**Python & Bash**
+### ⚙️ Automatización & Scripting
+**Python · Bash**
 
-Desarrollo scripts para automatizar procesos técnicos y administrativos, integrando lógica, validaciones, hashing y consumo de servicios externos mediante APIs.
+Scripts para automatizar procesos técnicos y administrativos: notificadores, integraciones con APIs, procesamiento de datos y tareas programadas con crontab.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash" />
@@ -182,10 +210,10 @@ Desarrollo scripts para automatizar procesos técnicos y administrativos, integr
 <tr>
 <td width="50%">
 
-### 🔌 APIs & Testing  
+### 🔌 APIs & Testing
 **REST · JSON · Postman**
 
-Consumo e integración de APIs REST utilizando métodos HTTP (GET, POST, etc.), manejo de JSON y validación de endpoints con herramientas de testing.
+Consumo e integración de APIs REST. Experiencia real con Brevo, 1Message y Google Sheets API. Validación de endpoints con Postman.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
@@ -194,10 +222,10 @@ Consumo e integración de APIs REST utilizando métodos HTTP (GET, POST, etc.), 
 </td>
 <td width="50%">
 
-### 🎨 Frontend (Complementario)  
-**HTML, CSS, JavaScript, Tailwind**
+### 🎨 Frontend
+**HTML · CSS · JavaScript · Tailwind**
 
-Construcción de interfaces web estructuradas y funcionales, utilizadas principalmente como soporte visual para soluciones backend y automatizadas.
+Construcción de interfaces web estructuradas y funcionales. Tailwind CSS como herramienta principal de estilado en proyectos activos.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
@@ -209,10 +237,10 @@ Construcción de interfaces web estructuradas y funcionales, utilizadas principa
 <tr>
 <td width="50%">
 
-### ☁️ Cloud  
-**Google Cloud Platform · Azure (básico)**
+### ☁️ Cloud
+**Google Cloud Platform · Azure (fundamentos)**
 
-Uso de servicios cloud para despliegue y conexión de aplicaciones, incluyendo máquinas virtuales, bases de datos gestionadas y manejo de redes e IPs.
+Despliegue de aplicaciones, máquinas virtuales, bases de datos gestionadas y configuración de redes e IPs.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,azure" />
@@ -221,10 +249,10 @@ Uso de servicios cloud para despliegue y conexión de aplicaciones, incluyendo m
 </td>
 <td width="50%">
 
-### 🖥️ Sistemas & Control de Versiones  
+### 🖥️ Sistemas & Control de Versiones
 **Linux · Git · GitHub**
 
-Trabajo en entornos Linux, manejo de terminal y control de versiones para desarrollo colaborativo y administración básica de sistemas.
+Trabajo nativo en entornos Linux. Control de versiones para desarrollo y administración básica de servidores.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
@@ -236,47 +264,47 @@ Trabajo en entornos Linux, manejo de terminal y control de versiones para desarr
 <tr>
 <td width="50%">
 
-### ⚡ Entorno de Desarrollo  
+### ⚡ Entorno de Desarrollo
 **Vite**
 
-Uso de Vite como entorno de desarrollo moderno para estructurar proyectos web y mejorar el flujo de trabajo.
+Entorno de desarrollo moderno para estructurar y correr proyectos web con recarga en caliente.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite" />
 </p>
 
 </td>
+<td width="50%">
+
+### 🏗️ Infraestructura (Homelab)
+**Proxmox VE · VMs · LXC**
+
+PC dedicado con Proxmox para aprender virtualización real: máquinas virtuales, contenedores LXC, redes y administración de servidores. Meta: desplegar proyectos propios en infra propia.
+
+</td>
 </tr>
 </table>
-
 
 ---
 
 ## 🚀 Tecnologías en Proceso de Aprendizaje
+
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### ⚛️ Biblioteca de Componentes  
-**React**
+### ⚛️ React
+Componentes, estados y props para interfaces dinámicas y reutilizables.
 
-Estoy aprendiendo a trabajar con componentes, estados y props para construir interfaces más dinámicas y reutilizables.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+<img src="https://skillicons.dev/icons?i=react" />
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🐧 Sistema Operativo  
-**Linux**
+### 🚀 Next.js
+Full stack moderno con React y backend integrado.
 
-Me familiarizo con entornos Linux para mejorar mis habilidades de desarrollo y administración básica de sistemas.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs" />
 
 </td>
 </tr>
@@ -285,57 +313,31 @@ Me familiarizo con entornos Linux para mejorar mis habilidades de desarrollo y a
 ---
 
 ## 🎯 Tecnologías que Aprenderé Próximamente
+
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### ☕ Lenguaje Versátil  
-**Java**
+### ☕ Java
+POO y fundamentos de uno de los lenguajes más usados en la industria.
 
-Quiero fortalecer mi lógica y aprender programación orientada a objetos con uno de los lenguajes más usados en la industria.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<img src="https://skillicons.dev/icons?i=java" />
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🔧 Programación de Sistemas  
-**C++**
+### 🔧 C++
+Bajo nivel, optimización y comprensión interna de los programas.
 
-Me interesa aprender conceptos de bajo nivel y optimización para mejorar mi comprensión interna del funcionamiento de los programas.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp" />
 
 </td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td width="50%">
+### 🎮 C
+Memoria, punteros y programación de sistemas operativos.
 
-### 🎮 Lenguaje de Sistemas  
-**C**
-
-Exploraré este lenguaje para profundizar en conceptos de bajo nivel, memoria y programación de sistemas operativos.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
-</td>
-<td width="50%">
-
-### 🚀 Full Stack Moderno  
-**Next.js**
-
-Quiero aprender a crear aplicaciones full stack con React y backend integrado para comprender mejor arquitecturas modernas.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=c" />
 
 </td>
 </tr>
@@ -345,8 +347,9 @@ Quiero aprender a crear aplicaciones full stack con React y backend integrado pa
 
 ## 📫 Contáctame
 
-* ✉️ Email: *jhanfranco204@gmail.com*
-* 🌐 LinkedIn: *https://www.linkedin.com/in/jhan-franco-364809260/*
-* 📍 Colombia
+* ✉️ **Email**: jhanfranco204@gmail.com
+* 🌐 **LinkedIn**: [jhan-franco-364809260](https://www.linkedin.com/in/jhan-franco-364809260/)
+* 🌍 **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
+* 📍 **Colombia**
 
 ---
