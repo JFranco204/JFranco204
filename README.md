@@ -66,13 +66,11 @@ Desarrollador con experiencia práctica real en entornos empresariales. Me espec
 ### 🔹 **Kallon**
 **Sistema de gestión de activos fijos empresariales**
 
-Plataforma web para **gestión, control y trazabilidad de activos fijos de TI**. Alternativa estructurada y auditable al manejo manual en Excel.
+Plataforma web para **control y trazabilidad de activos de TI**, diseñada como alternativa auditable al manejo manual en Excel.
 
-- Dashboard operativo con resumen de activos y movimientos recientes
-- Inventario centralizado con búsqueda, autocompletado y filtros por estado
-- Carga masiva desde Excel con validación previa de duplicados e inconsistencias
-- Registro por factura con soporte de adjuntos para control documental
-- Historial completo del ciclo de vida del activo para auditoría
+- Dashboard con métricas operativas y movimientos recientes
+- Inventario centralizado con búsqueda, filtros y autocompletado
+- Carga masiva desde Excel y trazabilidad del ciclo de vida para auditoría
 
  `HTML` · `CSS / Tailwind CSS` · `JavaScript` · `Python` · `MySQL`  
 **Estado**: `PRIVADO - EN DESARROLLO`
@@ -81,38 +79,17 @@ Plataforma web para **gestión, control y trazabilidad de activos fijos de TI**.
 
 <td width="50%">
 
-### Sistema de Inscripciones UDES
-Aplicación web para automatizar el proceso de inscripción de aspirantes a programas de pregrado. Prueba técnica para la Universidad de Santander.
+### 🔹 **Sistema de Inscripciones UDES**
+Aplicación web para automatizar el proceso de inscripción de aspirantes a pregrado (prueba técnica para la Universidad de Santander).
 
-- 4 roles de usuario con flujos diferenciados (ASP, RYC, MEI, CPG)
-- 6 estados de inscripción con transiciones controladas
-- Carga de documentos a Google Cloud Storage
-- Notificaciones por email con Resend API
+- 4 roles con flujos diferenciados y 6 estados con transiciones controladas
+- Carga de documentos en Cloud Storage y notificaciones por email
 - Panel administrativo con filtros y paginación
 
-`Django` · `Python` · `TypeScript` · `Postgresql` · `Vue` · `Vite`
-`Bootstrap 5` `Cloud SQL` `Cloud Storage` `Resend`
+`Django` · `Python` · `TypeScript` · `PostgreSQL` · `Vue` · `Vite`  
+`Bootstrap 5` · `Cloud SQL` · `Cloud Storage` · `Resend`
 
 **Estado**: `FINALIZADO`
-
-</td>
-
-<td width="50%">
-
-### 🔹 **MessageModule**
-**Plataforma de envío masivo multicanal**
-
-Sistema para automatizar campañas de comunicación masiva con múltiples canales de distribución.
-
-- Selección de canal: Email, SMS, WhatsApp
-- Segmentación avanzada de destinatarios
-- Carga y gestión de archivos adjuntos
-- Historial completo de envíos
-- Monitoreo de estados: Pendiente, Enviado, Entregado, Fallido
-- Programación de campañas
-
- `HTML` · `Tailwind CSS` · `TypeScript` · `Vite`  
-**Estado**: `PRIVADO`
 
 </td>
 </tr>
@@ -120,10 +97,25 @@ Sistema para automatizar campañas de comunicación masiva con múltiples canale
 <tr>
 <td width="50%">
 
+### 🔹 **MessageModule**
+**Plataforma de envío masivo multicanal**
+
+Sistema para automatizar campañas de comunicación masiva en múltiples canales.
+
+- Envío por Email, SMS y WhatsApp
+- Segmentación de destinatarios y gestión de adjuntos
+- Historial de campañas y monitoreo de estados de entrega
+
+ `HTML` · `Tailwind CSS` · `TypeScript` · `Vite`  
+**Estado**: `PRIVADO`
+
+</td>
+<td width="50%">
+
 ### 🔹 **DevJobs**
 **Plataforma de empleo tech**
 
-Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendizaje donde construyo todo desde cero, sin IA.
+Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendizaje construido desde cero.
 
 - Búsqueda por tecnologías y ubicación
 - Publicación de ofertas laborales
@@ -134,14 +126,17 @@ Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendi
 **Estado**: `Privado — En pausa — arquitectura en progreso`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔹 **Automation_Scripts**
 **Repositorio open source de scripts de automatización**
 
-Colección de scripts reutilizables desarrollados para automatizar tareas en entornos reales de trabajo.
+Colección de scripts reutilizables para automatizar tareas en entornos reales de trabajo.
 
-- Scripts de automatización de procesos operativos
+- Automatización de procesos operativos
 - Configuraciones desacopladas y seguras
 - Material de aprendizaje y portafolio técnico
 
@@ -156,15 +151,12 @@ Colección de scripts reutilizables desarrollados para automatizar tareas en ent
 **Estado**: `Open Source — en crecimiento continuo`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🔹 **TradingBot**
 **Bot de trading algorítmico**
 
-Bot automatizado de trading desarrollado en Python. Ejecuta lógica de mercado de forma autónoma y genera reportes visuales en HTML con los resultados de operaciones.
+Bot de trading automatizado en Python con ejecución autónoma y reportes visuales en HTML.
 
 - Lógica de trading automatizada
 - Generación de reportes en HTML
@@ -174,17 +166,19 @@ Bot automatizado de trading desarrollado en Python. Ejecuta lógica de mercado d
 **Estado**: `PRIVADO`
 
 </td>
-<td width="50%">
+</tr>
+
+<tr>
+<td colspan="2" width="100%">
 
 ### 🔹 **SimuTrade**
 **Broker simulado de aprendizaje**
 
-Plataforma web de trading con dinero ficticio pensada para practicar sin fricción. Sin registro, sin cuenta — entras y operas directamente.
+Plataforma web de trading con dinero ficticio para practicar sin fricción, sin registro ni cuenta.
 
 - Datos de mercado en tiempo real
 - Múltiples tipos de velas y análisis técnico
-- Sin autenticación requerida
-- Pensado como producto monetizable
+- Acceso directo sin autenticación
 
 `Web · APIs de mercado · Charts`
 **Estado**: `PRIVADO`
