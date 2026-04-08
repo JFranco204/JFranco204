@@ -1,4 +1,4 @@
-# Hola, soy Jhan Franco
+JHAN FRANCO
 
 ## Desarrollador de Software | Automatización · Backend · Full Stack en formación
 
