@@ -6,7 +6,7 @@ Desarrollador con experiencia práctica real en entornos empresariales. Me espec
 
 ---
 
-## 🎯 Enfoque
+## Enfoque
 
 * **Objetivo profesional**: Desarrollador backend / automatización con visión full stack e infraestructura.
 * **Metodología**: Proyectos reales, sin atajos. Construyo para entender, no solo para que funcione.
@@ -16,7 +16,7 @@ Desarrollador con experiencia práctica real en entornos empresariales. Me espec
 
 ---
 
-## 🛠️ Tecnologías y herramientas que uso
+## Tecnologías y herramientas que uso
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Desarrollador con experiencia práctica real en entornos empresariales. Me espec
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 <table>
 <tr>
@@ -189,7 +189,7 @@ Plataforma web de trading con dinero ficticio para practicar sin fricción, sin 
 
 ---
 
-## 🧰 Tech Stack Actual
+## Tech Stack Actual
 
 <table>
 <tr>
@@ -234,7 +234,7 @@ Consumo e integración de APIs REST. Experiencia real con Brevo, 1Message y Goog
 </td>
 <td width="50%">
 
-### 🎨 Frontend
+### Frontend
 **HTML · CSS · JavaScript · Tailwind**
 
 Construcción de interfaces web estructuradas y funcionales. Tailwind CSS como herramienta principal de estilado en proyectos activos.
@@ -249,7 +249,7 @@ Construcción de interfaces web estructuradas y funcionales. Tailwind CSS como h
 <tr>
 <td width="50%">
 
-### ☁️ Cloud
+### Cloud
 **Google Cloud Platform**
 
 Despliegue de aplicaciones, máquinas virtuales, bases de datos gestionadas y configuración de redes e IPs.
@@ -261,7 +261,7 @@ Despliegue de aplicaciones, máquinas virtuales, bases de datos gestionadas y co
 </td>
 <td width="50%">
 
-### 🖥️ Sistemas & Control de Versiones
+### Sistemas & Control de Versiones
 **Linux · Git · GitHub**
 
 Trabajo nativo en entornos Linux. Control de versiones para desarrollo y administración básica de servidores.
@@ -276,7 +276,7 @@ Trabajo nativo en entornos Linux. Control de versiones para desarrollo y adminis
 <tr>
 <td width="50%">
 
-### ⚡ Entorno de Desarrollo
+### Entorno de Desarrollo
 **Vite**
 
 Entorno de desarrollo moderno para estructurar y correr proyectos web con recarga en caliente.
@@ -288,7 +288,7 @@ Entorno de desarrollo moderno para estructurar y correr proyectos web con recarg
 </td>
 <td width="50%">
 
-### 🏗️ Infraestructura (Homelab)
+### Infraestructura (Homelab)
 **Proxmox VE · VMs · LXC**
 
 PC dedicado con Proxmox para aprender virtualización real: máquinas virtuales, contenedores LXC, redes y administración de servidores. Meta: desplegar proyectos propios en infra propia.
@@ -299,13 +299,13 @@ PC dedicado con Proxmox para aprender virtualización real: máquinas virtuales,
 
 ---
 
-## 🚀 Tecnologías en Proceso de Aprendizaje
+## Tecnologías en Proceso de Aprendizaje
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### ⚛️ React
+### React
 Componentes, estados y props para interfaces dinámicas y reutilizables.
 
 <img src="https://skillicons.dev/icons?i=react" />
@@ -313,7 +313,7 @@ Componentes, estados y props para interfaces dinámicas y reutilizables.
 </td>
 <td align="center" width="50%">
 
-### 🚀 Next.js
+### Next.js
 Full stack moderno con React y backend integrado.
 
 <img src="https://skillicons.dev/icons?i=nextjs" />
@@ -324,13 +324,13 @@ Full stack moderno con React y backend integrado.
 
 ---
 
-## 🎯 Tecnologías que Aprenderé Próximamente
+## Tecnologías que Aprenderé Próximamente
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### ☕ Java
+### Java
 POO y fundamentos de uno de los lenguajes más usados en la industria.
 
 <img src="https://skillicons.dev/icons?i=java" />
@@ -338,7 +338,7 @@ POO y fundamentos de uno de los lenguajes más usados en la industria.
 </td>
 <td align="center" width="33%">
 
-### 🔧 C++
+### C++
 Bajo nivel, optimización y comprensión interna de los programas.
 
 <img src="https://skillicons.dev/icons?i=cpp" />
@@ -346,7 +346,7 @@ Bajo nivel, optimización y comprensión interna de los programas.
 </td>
 <td align="center" width="33%">
 
-### 🎮 C
+### C
 Memoria, punteros y programación de sistemas operativos.
 
 <img src="https://skillicons.dev/icons?i=c" />
@@ -357,7 +357,7 @@ Memoria, punteros y programación de sistemas operativos.
 
 ---
 
-## 📫 Contáctame
+## Contáctame
 
 * ✉️ **Email**: jhanfranco204@gmail.com
 * 🌍 **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
