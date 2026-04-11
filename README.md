@@ -359,8 +359,8 @@ Memoria, punteros y programación de sistemas operativos.
 
 ## Contáctame
 
-* ✉️ **Email**: jhanfranco204@gmail.com
-* 🌍 **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
-* 📍 **Colombia**
+* **Email**: jhanfranco204@gmail.com
+* **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
+* **Colombia**
 
 ---
