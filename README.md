@@ -12,7 +12,7 @@ Desarrollador con experiencia práctica real en entornos empresariales. Me espec
 * **Metodología**: Proyectos reales, sin atajos. Construyo para entender, no solo para que funcione.
 * **Crecimiento**: Profundizando en arquitectura, patrones de diseño y despliegue en producción.
 * **Eficiencia**: Herramientas que resuelven problemas reales, no demos de laboratorio.
-* **Infraestructura**: Aprendiendo virtualización y administración de servidores con Proxmox VE.
+* **Infraestructura**: Aprendiendo virtualización, contenedores LXC y administración de servidores con Proxmox VE.
 
 ---
 
