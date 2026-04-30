@@ -1,187 +1,105 @@
-## JHAN FRANCO
+# Hi there, I'm Jhan Franco 👋 
 
-## Desarrollador de Software | Automatización · Backend · Full Stack en formación
+### Software Developer | Automation · Backend · Full Stack in formation
+**Bucaramanga, Colombia 🇨🇴**
 
-Desarrollador con experiencia práctica real en entornos empresariales. Me especializo en automatización de procesos, SQL avanzado y scripting, mientras construyo el ciclo completo de proyectos propios: frontend → backend → base de datos → despliegue.
+Desarrollador con experiencia práctica real en entornos empresariales. Me especializo en **automatización de procesos, SQL avanzado y scripting**, mientras construyo el ciclo completo de mis proyectos: **Frontend → Backend → DB → Despliegue.**
 
----
-
-## Enfoque
-
-* **Objetivo profesional**: Desarrollador backend / automatización con visión full stack e infraestructura.
-* **Metodología**: Proyectos reales, sin atajos. Construyo para entender, no solo para que funcione.
-* **Crecimiento**: Profundizando en arquitectura, patrones de diseño y despliegue en producción.
-* **Eficiencia**: Herramientas que resuelven problemas reales, no demos de laboratorio.
-* **Infraestructura**: Aprendiendo virtualización, contenedores LXC y administración de servidores con Proxmox VE.
+[🌐 Portfolio](https://jfranco204.github.io/Portfolio) | [📧 Email](mailto:jhanfranco204@gmail.com) | [💼 LinkedIn](TU_LINK_AQUI)
 
 ---
 
-## Tecnologías y herramientas que uso
+## Enfoque Profesional
+
+* **Objetivo**: Desarrollador Backend / Automatización con visión Full Stack e Infraestructura.
+* **Metodología**: Proyectos reales, sin atajos. Construyo para entender el "porqué" de las cosas.
+* **Infraestructura**: Administro mi propio entorno de virtualización con **Proxmox VE** y contenedores **LXC**.
+* **Eficiencia**: Creación de herramientas que resuelven problemas operativos reales.
+
+---
+
+## Tecnologías y Herramientas
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Backend / Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi,django" />
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,vue,ts,bootstrap" />
-
-</td>
-<td align="center" width="25%">
-
-**Sistemas & Versiones**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
-
-</td>
-<td align="center" width="25%">
-
-**Cloud (Fundamentos)**
-
-<img src="https://skillicons.dev/icons?i=gcp" />
-
-</td>
-</tr>
-</table>
+| Backend / Scripting | Frontend | Sistemas / Cloud |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi,django,postgres" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,vue,ts,bootstrap" /> | <img src="https://skillicons.dev/icons?i=linux,git,github,gcp,proxmox,postman" /> |
 
 </div>
 
 ---
 
-## Proyectos destacados
+## 📂 Proyectos Destacados
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 **Kallon**
-**Sistema de gestión de activos fijos empresariales**
-
-Plataforma web para **control y trazabilidad de activos de TI**, diseñada como alternativa auditable al manejo manual en Excel.
-
-- Dashboard con métricas operativas y movimientos recientes
-- Inventario centralizado con búsqueda, filtros y autocompletado
-- Carga masiva desde Excel y trazabilidad del ciclo de vida para auditoría
-
- `HTML` · `CSS / Tailwind CSS` · `JavaScript` · `Python` · `MySQL`  
-**Estado**: `PRIVADO - EN DESARROLLO`
+**Sistema de Gestión de Activos Fijos**
+Plataforma web para control y trazabilidad de activos de TI, diseñada como alternativa auditable a Excel.
+- **Core**: FastAPI + MySQL (Esquemas complejos).
+- **Impacto**: Dashboard de métricas y carga masiva.
+- `HTML` · `Tailwind` · `JS` · `Python`
+- **Estado**: `Privado - En Desarrollo`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🔹 **Sistema de Inscripciones UDES**
-Aplicación web para automatizar el proceso de inscripción de aspirantes a pregrado (prueba técnica para la Universidad de Santander).
-
-- 4 roles con flujos diferenciados y 6 estados con transiciones controladas
-- Carga de documentos en Cloud Storage y notificaciones por email
-- Panel administrativo con filtros y paginación
-
-`Django` · `Python` · `TypeScript` · `PostgreSQL` · `Vue` · `Vite`  
-`Bootstrap 5` · `Cloud SQL` · `Cloud Storage` · `Resend`
-
-**Estado**: `FINALIZADO`
+### 🔹 **Inscripciones UDES**
+**Automatización Universitaria**
+Aplicación para automatizar inscripciones de aspirantes (Prueba técnica UDES).
+- **Stack**: Django + Vue + PostgreSQL.
+- **Cloud**: Despliegue en GCP (Cloud Storage/SQL).
+- `TS` · `Vite` · `Bootstrap 5` · `Resend`
+- **Estado**: `Finalizado ✅`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 **MessageModule**
-**Plataforma de envío masivo multicanal**
-
-Sistema para automatizar campañas de comunicación masiva en múltiples canales.
-
-- Envío por Email, SMS y WhatsApp
-- Segmentación de destinatarios y gestión de adjuntos
-- Historial de campañas y monitoreo de estados de entrega
-
- `HTML` · `Tailwind CSS` · `TypeScript` · `Vite`  
-**Estado**: `PRIVADO`
+**Envío Masivo Multicanal**
+Automatización de campañas por Email, SMS y WhatsApp.
+- **Funciones**: Segmentación y monitoreo de entrega.
+- `Tailwind` · `TypeScript` · `Vite`
+- **Estado**: `Privado`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 **DevJobs**
-**Plataforma de empleo tech**
-
-Red de ofertas laborales enfocada en el sector tecnológico. Proyecto de aprendizaje construido desde cero.
-
-- Búsqueda por tecnologías y ubicación
-- Publicación de ofertas laborales
-- Perfiles de desarrolladores y empresas
-
-**Stack actual**: HTML · CSS  
-**Stack planeado**: React · Next.js · TypeScript  
-**Estado**: `Privado — En pausa — arquitectura en progreso`
+### 🔹 **Automation_Scripts** 🛠️
+**Repositorio Open Source**
+Colección de scripts para entornos de trabajo reales.
+- **Estructura**: Bash (sistemas), Python (procesamiento) y SQL (DB).
+- `Bash` · `Python` · `SQL`
+- **Estado**: `Crecimiento Continuo 🚀`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🔹 **Automation_Scripts**
-**Repositorio open source de scripts de automatización**
-
-Colección de scripts reutilizables para automatizar tareas en entornos reales de trabajo.
-
-- Automatización de procesos operativos
-- Configuraciones desacopladas y seguras
-- Material de aprendizaje y portafolio técnico
-
-**Estructura**:
-- `bash/` → automatización en sistemas
-- `python/` → scripts utilitarios y procesamiento
-- `sql/` → consultas y automatizaciones de BD
-- `config/` → configuraciones de ejemplo
-- `docs/` → documentación técnica
-
- `Bash · Python · SQL`    
-**Estado**: `Open Source — en crecimiento continuo`
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 **TradingBot**
-**Bot de trading algorítmico**
-
-Bot de trading automatizado en Python con ejecución autónoma y reportes visuales en HTML.
-
-- Lógica de trading automatizada
-- Generación de reportes en HTML
-- Consumo de APIs de datos financieros
-
-`Python · APIs financieras · HTML`
-**Estado**: `PRIVADO`
+**Bot Algorítmico**
+Ejecución autónoma y reportes visuales de trading.
+- **Lógica**: Consumo de APIs financieras y reportes HTML.
+- `Python` · `APIs` · `HTML`
+- **Estado**: `Privado`
 
 </td>
-</tr>
-
-<tr>
-<td colspan="2" width="100%">
+<td width="50%" valign="top">
 
 ### 🔹 **SimuTrade**
-**Broker simulado de aprendizaje**
-
-Plataforma web de trading con dinero ficticio para practicar sin fricción, sin registro ni cuenta.
-
-- Datos de mercado en tiempo real
-- Múltiples tipos de velas y análisis técnico
-- Acceso directo sin autenticación
-
-`Web · APIs de mercado · Charts`
-**Estado**: `PRIVADO`
+**Broker Simulado**
+Plataforma de aprendizaje con datos en tiempo real sin fricción.
+- **UI**: Gráficos avanzados y múltiples tipos de velas.
+- `Web` · `Market APIs` · `Charts`
+- **Estado**: `Privado`
 
 </td>
 </tr>
@@ -354,13 +272,5 @@ Memoria, punteros y programación de sistemas operativos.
 </td>
 </tr>
 </table>
-
----
-
-## Contáctame
-
-* **Email**: jhanfranco204@gmail.com
-* **Portfolio**: [jfranco204.github.io/Portfolio](https://jfranco204.github.io/Portfolio)
-* **Colombia**
 
 ---
